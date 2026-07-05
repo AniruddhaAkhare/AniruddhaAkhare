@@ -12,7 +12,7 @@
 
 <!-- ══════════════════════════ TYPING ANIMATION ══════════════════════════ -->
 <a href="https://github.com/AniruddhaAkhare">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=65&lines=🤖+Architecting+Agentic+AI+%26+Multi-Agent+Systems;🧠+300%2B+Production-Grade+AI+Solutions+Built;⚡+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG+Expert;🏆+6%2B+National+Hackathon+Champion;🚀+Transforming+MedTech+%7C+EdTech+%7C+AgriTech+with+AI;💡+Building+Intelligent+Systems+That+Think+%26+Act" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Agentic+AI+Developer+%26+Architect;300%2B+Production-Grade+AI+Solutions+Built;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG+Expert;6%2B+National+Hackathon+Champion;Full+Stack+%26+MLOps+Engineer" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -161,21 +161,21 @@ I don't build AI demos — I ship **300+ real-world AI solutions** that work at 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Speech%20AI-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recommendation%20Systems-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regression-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clustering-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-DB2777?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-EA580C?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-059669?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Speech%20AI-0891B2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-D97706?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recommendation%20Systems-4F46E5?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Classification-DC2626?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Regression-0369A1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clustering-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-C2410C?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-16A34A?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-9333EA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-0F766E?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 </div>
 
@@ -185,27 +185,27 @@ I don't build AI demos — I ship **300+ real-world AI solutions** that work at 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Function%20Calling-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tool%20Calling-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Structured%20Output-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Context%20Engineering-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Long%20Context%20Optimization-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Search-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hybrid%20Search-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Knowledge%20Graph%20RAG-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Memory%20Systems-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Chaining-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reflection%20Agents-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reasoning%20Models-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Workflows-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Routing-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-10B981?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-3B82F6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Function%20Calling-F97316?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-EF4444?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Structured%20Output-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context%20Engineering-0891B2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Long%20Context%20Optimization-0284C7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Search-D946EF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-A855F7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hybrid%20Search-4F46E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Knowledge%20Graph%20RAG-14B8A6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Memory%20Systems-F59E0B?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prompt%20Chaining-3B82F6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reflection%20Agents-EF4444?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reasoning%20Models-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Workflows-10B981?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model%20Routing-F97316?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -693,17 +693,13 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=AniruddhaAkhare&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=06B6D4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AniruddhaAkhare&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=06B6D4" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaAkhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniruddhaAkhare&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&hide_border=true&area_color=200D1117" alt="Activity Graph"/>
-
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniruddhaAkhare&theme=tokyonight" alt="Profile Summary"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaAkhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniruddhaAkhare&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -713,7 +709,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AniruddhaAkhare&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AniruddhaAkhare&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -786,17 +782,21 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Contributions
 
 <div align="center">
 
+<img width="100%" src="https://ghchart.rshah.org/7C3AED/AniruddhaAkhare" alt="Aniruddha's GitHub Contribution Chart"/>
+
+<br/><br/>
+
+<!-- Snake animation activates after running the GitHub Action -->
+<!-- Go to: Actions tab → Generate Snake → Run workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AniruddhaAkhare/AniruddhaAkhare/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AniruddhaAkhare/AniruddhaAkhare/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AniruddhaAkhare/AniruddhaAkhare/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AniruddhaAkhare/AniruddhaAkhare/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'"/>
 </picture>
-
-*⚠️ Run the **Generate Snake** GitHub Action once to activate this animation*
 
 </div>
 
