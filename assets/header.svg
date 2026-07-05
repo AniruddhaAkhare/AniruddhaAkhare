@@ -1,74 +1,136 @@
 <svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Cyan Glow -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+    <!-- Soft Glow Filter -->
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
-    <filter id="glowStrong" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
+    
+    <!-- Moving Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B132B">
+        <animate attributeName="stop-color" values="#0B132B;#1C2541;#0B132B" dur="15s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1C2541">
+        <animate attributeName="stop-color" values="#1C2541;#3A506B;#1C2541" dur="15s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Paths for Data Packets -->
+    <path id="path1" d="M -50,180 Q 250,50 500,180 T 1050,100" fill="none" />
+    <path id="path2" d="M 1050,40 Q 750,150 500,60 T -50,150" fill="none" />
+    <path id="path3" d="M -50,220 Q 350,280 600,160 T 1050,230" fill="none" />
   </defs>
 
-  <!-- Deep space background -->
-  <rect width="1000" height="260" fill="#0D1117" />
-  
-  <!-- Nebula / Gradient Blobs -->
-  <circle cx="200" cy="130" r="100" fill="#0EA5E9" opacity="0.08" filter="url(#glowStrong)">
-    <animate attributeName="r" values="80;150;80" dur="12s" repeatCount="indefinite"/>
+  <!-- Animated Gradient Background -->
+  <rect width="1000" height="260" fill="url(#bgGradient)" />
+
+  <!-- Background Orbs (Nebula effect) -->
+  <circle cx="200" cy="130" r="150" fill="#5BC0BE" opacity="0.1" filter="url(#softGlow)">
+    <animate attributeName="cx" values="150;250;150" dur="20s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="800" cy="130" r="100" fill="#3B82F6" opacity="0.08" filter="url(#glowStrong)">
-    <animate attributeName="r" values="150;80;150" dur="14s" repeatCount="indefinite"/>
+  <circle cx="800" cy="130" r="180" fill="#6FFFE9" opacity="0.08" filter="url(#softGlow)">
+    <animate attributeName="cx" values="850;750;850" dur="25s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="200" r="200" fill="#3A506B" opacity="0.15" filter="url(#softGlow)">
+    <animate attributeName="cy" values="250;150;250" dur="22s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Constellations (Connecting lines) -->
-  <g stroke="#0EA5E9" stroke-width="0.5" opacity="0">
-    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="8s" repeatCount="indefinite" />
-    <line x1="150" y1="120" x2="300" y2="180" />
-    <line x1="300" y1="180" x2="500" y2="80" />
-    <line x1="500" y1="80" x2="700" y2="150" />
-    <line x1="700" y1="150" x2="800" y2="210" />
-  </g>
-  
-  <g stroke="#38BDF8" stroke-width="0.5" opacity="0">
-    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="10s" repeatCount="indefinite" />
-    <line x1="100" y1="50" x2="500" y2="80" />
-    <line x1="500" y1="80" x2="900" y2="40" />
-    <line x1="400" y1="230" x2="300" y2="180" />
-    <line x1="400" y1="230" x2="700" y2="150" />
+  <!-- LAYER 1: Far Stars (Slow Parallax) -->
+  <g fill="#FFFFFF" opacity="0.3">
+    <circle cx="150" cy="40" r="0.8"><animate attributeName="cx" values="150;1000;-10" dur="40s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="190" r="0.8"><animate attributeName="cx" values="350;1000;-10" dur="35s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="80" r="0.8"><animate attributeName="cx" values="650;1000;-10" dur="45s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="220" r="0.8"><animate attributeName="cx" values="850;1000;-10" dur="38s" repeatCount="indefinite"/></circle>
+    <!-- right to left -->
+    <circle cx="900" cy="60" r="0.8"><animate attributeName="cx" values="900;-10;1000" dur="42s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="240" r="0.8"><animate attributeName="cx" values="450;-10;1000" dur="39s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="200" r="0.8"><animate attributeName="cx" values="200;-10;1000" dur="36s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- Floating Particles & Stars -->
-  <g fill="#38BDF8" opacity="0.7" filter="url(#glow)">
-    <circle cx="100" cy="50" r="1.5"><animate attributeName="cx" values="100;1000;-10" dur="20s" repeatCount="indefinite"/></circle>
-    <circle cx="300" cy="180" r="1"><animate attributeName="cx" values="300;1000;-10" dur="15s" repeatCount="indefinite"/></circle>
-    <circle cx="500" cy="80" r="2.5"><animate attributeName="cx" values="500;1000;-10" dur="25s" repeatCount="indefinite"/></circle>
-    <circle cx="800" cy="210" r="1.5"><animate attributeName="cx" values="800;1000;-10" dur="18s" repeatCount="indefinite"/></circle>
+  <!-- LAYER 2: Mid Particles (Medium Parallax) -->
+  <g fill="#5BC0BE" opacity="0.5">
+    <circle cx="100" cy="120" r="1.5"><animate attributeName="cx" values="100;1000;-10" dur="25s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="50" r="1.5"><animate attributeName="cx" values="400;1000;-10" dur="30s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="180" r="1.5"><animate attributeName="cx" values="700;-10;1000" dur="28s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="90" r="1.5"><animate attributeName="cx" values="800;-10;1000" dur="26s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- LAYER 3: Neural Network Synapses -->
+  <!-- Render the paths visually -->
+  <g stroke="#3A506B" stroke-width="1.5" fill="none" opacity="0.6">
+    <path d="M -50,180 Q 250,50 500,180 T 1050,100" />
+    <path d="M 1050,40 Q 750,150 500,60 T -50,150" />
+    <path d="M -50,220 Q 350,280 600,160 T 1050,230" />
+    <!-- Connecting branches -->
+    <line x1="250" y1="115" x2="350" y2="250" />
+    <line x1="500" y1="180" x2="500" y2="60" />
+    <line x1="750" y1="150" x2="825" y2="140" />
+  </g>
+
+  <!-- Neural Nodes -->
+  <g fill="#1C2541" stroke="#5BC0BE" stroke-width="2">
+    <!-- Path 1 Nodes -->
+    <circle cx="250" cy="115" r="5" />
+    <circle cx="500" cy="180" r="7" />
+    <circle cx="825" cy="140" r="5" />
     
-    <circle cx="900" cy="40" r="1.5"><animate attributeName="cx" values="900;-10;1000" dur="22s" repeatCount="indefinite"/></circle>
-    <circle cx="700" cy="150" r="1"><animate attributeName="cx" values="700;-10;1000" dur="17s" repeatCount="indefinite"/></circle>
-    <circle cx="400" cy="230" r="2"><animate attributeName="cx" values="400;-10;1000" dur="28s" repeatCount="indefinite"/></circle>
-    <circle cx="150" cy="120" r="2"><animate attributeName="cx" values="150;-10;1000" dur="19s" repeatCount="indefinite"/></circle>
+    <!-- Path 2 Nodes -->
+    <circle cx="750" cy="150" r="6" />
+    <circle cx="500" cy="60" r="7" />
+    <circle cx="165" cy="110" r="5" />
+    
+    <!-- Path 3 Nodes -->
+    <circle cx="350" cy="250" r="6" />
+    <circle cx="600" cy="160" r="5" />
+    <circle cx="825" cy="195" r="4" />
+  </g>
+  
+  <!-- Glowing Data Packets Traveling -->
+  <circle r="3" fill="#6FFFE9" filter="url(#softGlow)">
+    <animateMotion dur="8s" repeatCount="indefinite">
+      <mpath href="#path1"/>
+    </animateMotion>
+  </circle>
+  <circle r="3" fill="#FFFFFF" filter="url(#softGlow)">
+    <animateMotion dur="10s" repeatCount="indefinite" begin="2s">
+      <mpath href="#path1"/>
+    </animateMotion>
+  </circle>
+  
+  <circle r="3" fill="#5BC0BE" filter="url(#softGlow)">
+    <animateMotion dur="9s" repeatCount="indefinite">
+      <mpath href="#path2"/>
+    </animateMotion>
+  </circle>
+  <circle r="3" fill="#FFFFFF" filter="url(#softGlow)">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="3s">
+      <mpath href="#path2"/>
+    </animateMotion>
+  </circle>
+
+  <circle r="3" fill="#6FFFE9" filter="url(#softGlow)">
+    <animateMotion dur="11s" repeatCount="indefinite" begin="1s">
+      <mpath href="#path3"/>
+    </animateMotion>
+  </circle>
+  
+  <!-- Node Pulse Animations -->
+  <g fill="#6FFFE9" opacity="0" filter="url(#softGlow)">
+    <circle cx="500" cy="180" r="8">
+      <animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite" begin="4s"/>
+    </circle>
+    <circle cx="500" cy="60" r="8">
+      <animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite" begin="3.5s"/>
+    </circle>
   </g>
 
-  <!-- Pulsing Nodes on Constellations -->
-  <g fill="#0EA5E9" filter="url(#glowStrong)">
-    <circle cx="300" cy="180" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="500" cy="80" r="4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="700" cy="150" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <!-- Central Text Overlay -->
-  <text x="500" y="125" font-family="'Courier New', Courier, monospace" font-size="52" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#glowStrong)">
+  <!-- Central Professional Typography -->
+  <text x="500" y="125" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">
     ANIRUDDHA AKHARE
   </text>
-  <text x="500" y="165" font-family="'Courier New', Courier, monospace" font-size="18" letter-spacing="4" fill="#38BDF8" text-anchor="middle">
-    AGENTIC AI DEVELOPER | ML ENGINEER
+  <text x="500" y="165" font-family="system-ui, -apple-system, sans-serif" font-size="16" letter-spacing="5" fill="#5BC0BE" text-anchor="middle" font-weight="600">
+    AGENTIC AI DEVELOPER • ML ENGINEER
   </text>
-
-  <!-- Sci-Fi Corner Text -->
-  <text x="50" y="40" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" opacity="0.6">GALAXY.NODE.01</text>
-  <text x="950" y="235" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" opacity="0.6" text-anchor="end">INTELLIGENCE SPREADING...</text>
 
 </svg>
