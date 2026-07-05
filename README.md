@@ -692,7 +692,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=AniruddhaAkhare&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=0EA5E9&currStreakLabel=0284C7" alt="GitHub Streak"/>
 
 <br/>
