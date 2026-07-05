@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════ HEADER WAVE ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=260&section=header&text=Aniruddha%20Akhare&fontSize=68&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Agentic%20AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=21&descColor=90e0ef"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1E3A8A,0EA5E9,38BDF8&height=260&section=header&text=Aniruddha%20Akhare&fontSize=68&fontAlignY=40&animation=scaleIn&fontColor=ffffff&desc=Agentic%20AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=21&descColor=38BDF8"/>
 
 <br/>
 
@@ -845,6 +845,6 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 <br/>
 
 <!-- ════════════════════════ FOOTER WAVE ════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1E3A8A,0EA5E9,38BDF8&height=130&section=footer&animation=scaleIn"/>
 
 </div>
