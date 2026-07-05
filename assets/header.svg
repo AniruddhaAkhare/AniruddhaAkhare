@@ -1,0 +1,78 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0EA5E9" stroke-width="0.5" stroke-opacity="0.3"/>
+    </pattern>
+    <!-- Cyan Glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <!-- Scanning Beam Gradient -->
+    <linearGradient id="beamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0" />
+      <stop offset="50%" stop-color="#0EA5E9" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="260" fill="#0D1117" />
+  
+  <!-- Floating Grid -->
+  <rect width="1000" height="260" fill="url(#grid)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="10s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Scanning Beam -->
+  <rect y="0" width="150" height="260" fill="url(#beamGrad)" opacity="0.3">
+    <animate attributeName="x" values="-150;1000;-150" dur="5s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Rotating Radar / Hologram Rings -->
+  <g transform="translate(500, 130)" filter="url(#glow)">
+    <!-- Outer dashed ring -->
+    <circle cx="0" cy="0" r="180" fill="none" stroke="#0EA5E9" stroke-width="1.5" stroke-opacity="0.2" stroke-dasharray="10, 15">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+    </circle>
+    <!-- Middle ring -->
+    <circle cx="0" cy="0" r="150" fill="none" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.4" stroke-dasharray="4, 10, 40, 10">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="15s" repeatCount="indefinite" />
+    </circle>
+    <!-- Inner solid ring -->
+    <circle cx="0" cy="0" r="120" fill="none" stroke="#3B82F6" stroke-width="2" stroke-opacity="0.1" />
+  </g>
+
+  <!-- Side UI Elements -->
+  <g stroke="#0EA5E9" stroke-opacity="0.6" stroke-width="2" fill="none">
+    <path d="M 50,50 L 100,50 L 120,70" />
+    <path d="M 950,210 L 900,210 L 880,190" />
+    <circle cx="50" cy="50" r="3" fill="#0EA5E9"/>
+    <circle cx="950" cy="210" r="3" fill="#0EA5E9"/>
+    <!-- UI Data -->
+    <rect x="50" y="70" width="40" height="4" fill="#0EA5E9" opacity="0.4" />
+    <rect x="50" y="80" width="60" height="4" fill="#0EA5E9" opacity="0.6" />
+    <rect x="50" y="90" width="30" height="4" fill="#0EA5E9" opacity="0.3" />
+  </g>
+
+  <!-- Digital Pulse Line -->
+  <line x1="100" y1="230" x2="900" y2="230" stroke="#0EA5E9" stroke-width="1" stroke-opacity="0.3" />
+  <circle cx="500" cy="230" r="3" fill="#0EA5E9" filter="url(#glow)">
+    <animate attributeName="cx" values="100;900;100" dur="3s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Central Text Overlay -->
+  <text x="500" y="125" font-family="'Courier New', Courier, monospace" font-size="52" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#glow)">
+    ANIRUDDHA AKHARE
+  </text>
+  <text x="500" y="165" font-family="'Courier New', Courier, monospace" font-size="18" letter-spacing="4" fill="#38BDF8" text-anchor="middle">
+    > AGENTIC AI DEVELOPER | ML ENGINEER &lt;
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Sci-Fi Corner Text -->
+  <text x="50" y="40" font-family="'Courier New', Courier, monospace" font-size="12" fill="#0EA5E9" opacity="0.8">SYS.INIT.01</text>
+  <text x="950" y="235" font-family="'Courier New', Courier, monospace" font-size="12" fill="#0EA5E9" opacity="0.8" text-anchor="end">STATUS: ONLINE</text>
+
+</svg>
