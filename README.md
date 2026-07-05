@@ -6,13 +6,13 @@
 <div align="center">
 
 <!-- ═══════════════════════════ HEADER WAVE ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,19&height=260&section=header&text=Aniruddha%20Akhare&fontSize=68&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Agentic%20AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=21&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=260&section=header&text=Aniruddha%20Akhare&fontSize=68&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Agentic%20AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=21&descColor=90e0ef"/>
 
 <br/>
 
 <!-- ══════════════════════════ TYPING ANIMATION ══════════════════════════ -->
 <a href="https://github.com/AniruddhaAkhare">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Agentic+AI+Developer+%26+Architect;300%2B+Production-Grade+AI+Solutions+Built;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG+Expert;6%2B+National+Hackathon+Champion;Full+Stack+%26+MLOps+Engineer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Agentic+AI+Developer+%26+Architect;300%2B+Production-Grade+AI+Solutions+Built;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG+Expert;6%2B+National+Hackathon+Champion;Full+Stack+%26+MLOps+Engineer" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -27,16 +27,15 @@
 <a href="https://github.com/AniruddhaAkhare">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AniruddhaAkhare&color=7C3AED&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=AniruddhaAkhare&color=0EA5E9&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 <br/><br/>
 
 <!-- ════════════════════════ QUICK METRICS ════════════════════════ -->
-<img src="https://img.shields.io/badge/AI%20%26%20ML%20Projects-300%2B-7c3aed?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/National%20Hackathons-6%2B%20Wins-f59e0b?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Freelancing-3%2B%20Years-06b6d4?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Domains-MedTech%20%7C%20EdTech%20%7C%20AgriTech-ec4899?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Graduating-B.E.%20IT%202026-10b981?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML%20Projects-300%2B-0EA5E9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/National%20Hackathons-6%2B%20Wins-3B82F6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Freelancing-3%2B%20Years-1D4ED8?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Graduating-B.E.%20IT%202026-1E3A8A?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -693,13 +692,13 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=AniruddhaAkhare&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=06B6D4" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AniruddhaAkhare&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=0EA5E9&currStreakLabel=0284C7" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaAkhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniruddhaAkhare&bg_color=0D1117&color=A78BFA&line=7C3AED&point=06B6D4&area=true&hide_border=true" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaAkhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniruddhaAkhare&bg_color=0D1117&color=38BDF8&line=3B82F6&point=0EA5E9&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -709,7 +708,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AniruddhaAkhare&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AniruddhaAkhare&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -786,7 +785,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/7C3AED/AniruddhaAkhare" alt="Aniruddha's GitHub Contribution Chart"/>
+<img width="100%" src="https://ghchart.rshah.org/3B82F6/AniruddhaAkhare" alt="Aniruddha's GitHub Contribution Chart"/>
 
 <br/><br/>
 
@@ -807,7 +806,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 ## 🤝 Let's Build the Future of AI Together!
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&height=40&lines=Open+to+AI%2FML+Roles+%7C+Freelance+%7C+Collaboration;Let%27s+turn+your+AI+vision+into+reality+%F0%9F%9A%80" alt="Open To"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Open+to+AI%2FML+Roles+%7C+Freelance+%7C+Collaboration;Let%27s+turn+your+AI+vision+into+reality+%F0%9F%9A%80" alt="Open To"/>
 </a>
 
 <br/><br/>
@@ -833,6 +832,6 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 <br/>
 
 <!-- ════════════════════════ FOOTER WAVE ════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,19&height=130&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=130&section=footer&animation=fadeIn"/>
 
 </div>
