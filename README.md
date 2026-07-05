@@ -708,7 +708,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AniruddhaAkhare&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+<img src="./assets/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 
