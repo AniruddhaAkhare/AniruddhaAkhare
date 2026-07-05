@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════ HEADER WAVE ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=260&section=header&text=Aniruddha%20Akhare&fontSize=68&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Agentic%20AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=21&descColor=90e0ef"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=260&section=header&text=Aniruddha%20Akhare&fontSize=68&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Agentic%20AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=21&descColor=90e0ef"/>
 
 <br/>
 
@@ -692,13 +692,13 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=AniruddhaAkhare&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=0EA5E9&currStreakLabel=0284C7" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AniruddhaAkhare&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AniruddhaAkhare&theme=transparent&hide_border=true&ring=3B82F6&fire=0EA5E9&currStreakLabel=0284C7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaAkhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniruddhaAkhare&bg_color=0D1117&color=38BDF8&line=3B82F6&point=0EA5E9&area=true&hide_border=true" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaAkhare&layout=donut&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AniruddhaAkhare&theme=transparent&color=38BDF8&line=3B82F6&point=0EA5E9&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -845,6 +845,6 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 <br/>
 
 <!-- ════════════════════════ FOOTER WAVE ════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=130&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=130&section=footer&animation=twinkling"/>
 
 </div>
