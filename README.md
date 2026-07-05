@@ -41,7 +41,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <kbd>🧑‍💻 About Me</kbd>
 
 <table>
 <tr>
@@ -587,7 +587,7 @@ I don't build AI demos — I ship **300+ real-world AI solutions** that work at 
 
 ---
 
-## 🚀 Featured Projects
+## <kbd>🚀 Featured Projects</kbd>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=600&height=40&lines=Production-Grade+AI+Solutions+%7C+Real+Impact+%7C+Measurable+Results" alt="Projects subtitle"/>
@@ -688,7 +688,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 ---
 
-## 📊 GitHub Stats
+## <kbd>📊 GitHub Stats</kbd>
 
 <div align="center">
 
@@ -704,7 +704,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 ---
 
-## 🏆 Trophy Cabinet
+## <kbd>🏆 Trophy Cabinet</kbd>
 
 <div align="center">
 
@@ -714,24 +714,37 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <br/>
 
-### 🥇 Hackathon Victory Record — 6 for 6
+### 🗺️ The Hackathon Trail — 6 for 6
 
-<div align="center">
+> *My journey through national-level hackathons. 6 competitions entered, 6 podium finishes.*
 
-| 🏅 | Competition | Duration | Institution |
-|:---:|:---|:---:|:---|
-| 🥇 **Winner** | SRIJAN'26 | 24 Hours | Shri Sant Gajanan College of Engg. & Mgmt., Shegaon |
-| 🥇 **Winner** | INNOVO'25 | 30 Hours | Shri Sant Gajanan College of Engg. & Mgmt., Shegaon |
-| 🥇 **Winner** | Techkruti Hackathon | — | Tulsidas Gaikwad-Patil College of Engineering, Nagpur |
-| 🥇 **Winner** | Coders Assylum 2k24 | — | — |
-| 🥉 **3rd Place** | Sankalp Bharat Hackathon | 24 Hours | St. Vincent Pallotti College of Engg. & Tech., Nagpur |
-| 🥈 **Runner-up** | Google Solutions Hackathon | — | PRMIT&R, Badnera |
+<br/>
 
+<div align="left" style="margin-left: 20px;">
+<code>📍 Start</code> <br/>
+<code>│</code> <br/>
+<code>├──</code> 🏆 <b>SRIJAN'26</b> (24 Hours) <br/>
+<code>│</code> &nbsp;&nbsp;&nbsp;&nbsp;└─ <i>Shri Sant Gajanan College</i> — 🥇 <b>Winner</b> <br/>
+<code>│</code> <br/>
+<code>├──</code> 🏆 <b>INNOVO'25</b> (30 Hours) <br/>
+<code>│</code> &nbsp;&nbsp;&nbsp;&nbsp;└─ <i>Shri Sant Gajanan College</i> — 🥇 <b>Winner</b> <br/>
+<code>│</code> <br/>
+<code>├──</code> 🏆 <b>Techkruti Hackathon</b> <br/>
+<code>│</code> &nbsp;&nbsp;&nbsp;&nbsp;└─ <i>TGP College of Engineering</i> — 🥇 <b>Winner</b> <br/>
+<code>│</code> <br/>
+<code>├──</code> 🏆 <b>Coders Assylum 2k24</b> <br/>
+<code>│</code> &nbsp;&nbsp;&nbsp;&nbsp;└─ <i>National Level</i> — 🥇 <b>Winner</b> <br/>
+<code>│</code> <br/>
+<code>├──</code> 🥈 <b>Google Solutions Hackathon</b> <br/>
+<code>│</code> &nbsp;&nbsp;&nbsp;&nbsp;└─ <i>PRMIT&R, Badnera</i> — <b>Runner-up</b> <br/>
+<code>│</code> <br/>
+<code>└──</code> 🥉 <b>Sankalp Bharat Hackathon</b> (24 Hours) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ <i>St. Vincent Pallotti College</i> — <b>3rd Place</b>
 </div>
 
 ---
 
-## 💼 Professional Timeline
+## <kbd>💼 Professional Timeline</kbd>
 
 <div align="center">
 
@@ -745,7 +758,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 ---
 
-## 🎓 Education & Certifications
+## <kbd>🎓 Education & Certifications</kbd>
 
 <div align="center">
 
@@ -764,7 +777,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 ---
 
-## 🌱 Community & Leadership
+## <kbd>🌱 Community & Leadership</kbd>
 
 <table>
 <tr>
@@ -781,11 +794,11 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 ---
 
-## 📈 GitHub Contributions
+## <kbd>📈 GitHub Contributions</kbd>
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/3B82F6/AniruddhaAkhare" alt="Aniruddha's GitHub Contribution Chart"/>
+<img width="100%" src="https://ghchart.rshah.org/AniruddhaAkhare" alt="Aniruddha's GitHub Contribution Chart"/>
 
 <br/><br/>
 
@@ -803,7 +816,7 @@ AutoGPT-style **autonomous agent** for Shopify/Flipkart sellers that auto-optimi
 
 <div align="center">
 
-## 🤝 Let's Build the Future of AI Together!
+## <kbd>🤝 Let's Build the Future of AI Together!</kbd>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Open+to+AI%2FML+Roles+%7C+Freelance+%7C+Collaboration;Let%27s+turn+your+AI+vision+into+reality+%F0%9F%9A%80" alt="Open To"/>
