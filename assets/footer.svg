@@ -21,21 +21,21 @@
   <!-- Pulsing Dots -->
   <g fill="#38BDF8" filter="url(#glow)">
     <!-- Node 1 -->
-    <circle cx="200" cy="65" r="4">
+    <circle cx="150" cy="65" r="4">
       <animate attributeName="r" values="4;8;4" dur="2s" begin="0s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0s" repeatCount="indefinite" />
     </circle>
-    <circle cx="200" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
+    <circle cx="150" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
       <animate attributeName="r" values="4;20" dur="2s" begin="0s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.8;0" dur="2s" begin="0s" repeatCount="indefinite" />
     </circle>
     
     <!-- Node 2 -->
-    <circle cx="400" cy="65" r="4">
+    <circle cx="325" cy="65" r="4">
       <animate attributeName="r" values="4;8;4" dur="2s" begin="0.5s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0.5s" repeatCount="indefinite" />
     </circle>
-    <circle cx="400" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
+    <circle cx="325" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
       <animate attributeName="r" values="4;20" dur="2s" begin="0.5s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.8;0" dur="2s" begin="0.5s" repeatCount="indefinite" />
     </circle>
@@ -46,35 +46,35 @@
     </circle>
     
     <!-- Node 4 -->
-    <circle cx="600" cy="65" r="4">
+    <circle cx="675" cy="65" r="4">
       <animate attributeName="r" values="4;8;4" dur="2s" begin="1.5s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="1.5s" repeatCount="indefinite" />
     </circle>
-    <circle cx="600" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
+    <circle cx="675" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
       <animate attributeName="r" values="4;20" dur="2s" begin="1.5s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.8;0" dur="2s" begin="1.5s" repeatCount="indefinite" />
     </circle>
     
     <!-- Node 5 -->
-    <circle cx="800" cy="65" r="4">
+    <circle cx="850" cy="65" r="4">
       <animate attributeName="r" values="4;8;4" dur="2s" begin="2s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="2s" repeatCount="indefinite" />
     </circle>
-    <circle cx="800" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
+    <circle cx="850" cy="65" r="12" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0">
       <animate attributeName="r" values="4;20" dur="2s" begin="2s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.8;0" dur="2s" begin="2s" repeatCount="indefinite" />
     </circle>
   </g>
 
   <!-- Labels -->
-  <text x="200" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.7">DATA</text>
-  <text x="400" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.7">TRAIN</text>
-  <text x="500" y="45" font-family="'Courier New', Courier, monospace" font-size="12" fill="#38BDF8" text-anchor="middle" font-weight="bold">AI CORE</text>
-  <text x="600" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.7">INFER</text>
-  <text x="800" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.7">DEPLOY</text>
+  <text x="150" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.8">B.E. IT '26</text>
+  <text x="325" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.8">300+ AI SOLUTIONS</text>
+  <text x="500" y="45" font-family="'Courier New', Courier, monospace" font-size="12" fill="#38BDF8" text-anchor="middle" font-weight="bold">AGENTIC AI EXPERT</text>
+  <text x="675" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.8">6x HACKATHON WINNER</text>
+  <text x="850" y="45" font-family="'Courier New', Courier, monospace" font-size="10" fill="#0EA5E9" text-anchor="middle" opacity="0.8">FULL STACK DEV</text>
   
   <text x="500" y="100" font-family="'Courier New', Courier, monospace" font-size="14" fill="#38BDF8" text-anchor="middle" letter-spacing="2">
-    NEURAL NETWORK ACTIVE
+    READY TO BUILD THE FUTURE
     <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite" />
   </text>
 </svg>
